@@ -1,0 +1,6 @@
+@for $i from 1 through 6 {
+  .green-#{$i} {
+    width: 100px*$i;
+  }
+}
+
